@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex Mz
-- 👀 I’m interested in ethical hacking and web
+- 👀 I’m interested in ethical hacking and webmaster
 - 🌱 I’m currently learning linux and javaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
